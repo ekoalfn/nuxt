@@ -1,7 +1,7 @@
 <template>
   <div>
-    <Header/>
+    <AppLayoutHeader />
     abs
-    <Footer/>
+    <AppLayoutFooter />
   </div>
 </template>
